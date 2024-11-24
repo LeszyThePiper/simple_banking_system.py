@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: banking/banking.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: card.s3db
+    visible: true
+    is_binary: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/109/stages/593/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 24 Nov 2024 11:00:43 UTC"
+record: 3

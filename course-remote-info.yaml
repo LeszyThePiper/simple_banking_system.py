@@ -1,0 +1,139 @@
+hyperskill_project:
+  id: 109
+  ide_files: https://cogniterra.org/media/attachments/lesson/24928/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 591
+    step: 9827
+    is_completed: true
+  - id: 592
+    step: 9828
+    is_completed: true
+  - id: 593
+    step: 9829
+    is_completed: true
+  - id: 594
+    step: 9830
+    is_completed: true
+topics:
+  0:
+    - title: Introduction to Python
+      theory_id: 47352
+    - title: Multi-line programs
+      theory_id: 47555
+    - title: "PEP 8: Coding style guide"
+      theory_id: 47499
+    - title: Taking user's input
+      theory_id: 47680
+    - title: Program with numbers
+      theory_id: 47734
+    - title: If statement
+      theory_id: 5953
+    - title: Else statement
+      theory_id: 5932
+    - title: For loop
+      theory_id: 6065
+    - title: Importing modules
+      theory_id: 6019
+    - title: Elif statement
+      theory_id: 5926
+    - title: While loop
+      theory_id: 5940
+    - title: "Loop control: break, continue, pass"
+      theory_id: 6302
+    - title: Class
+      theory_id: 6661
+    - title: Class instances
+      theory_id: 6669
+    - title: Methods
+      theory_id: 6931
+    - title: Methods and attributes
+      theory_id: 6981
+    - title: How to read the documentation
+      theory_id: 12125
+    - title: Random module
+      theory_id: 6263
+    - title: Basic data types
+      theory_id: 47516
+    - title: Variables
+      theory_id: 47536
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 47564
+    - title: "Integer arithmetic: special operations"
+      theory_id: 47917
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Declaring functions
+      theory_id: 5900
+    - title: Global vs local. Scopes
+      theory_id: 6322
+    - title: "Function, arguments and parameters"
+      theory_id: 7248
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+    - title: String formatting
+      theory_id: 6037
+    - title: List comprehension
+      theory_id: 6315
+    - title: Dictionary
+      theory_id: 6481
+    - title: Dictionary methods
+      theory_id: 9008
+    - title: Operations with dictionary
+      theory_id: 11096
+    - title: Type casting
+      theory_id: 6224
+  1:
+    - title: Computer algorithms
+      theory_id: 16547
+  2:
+    - title: PyCharm basics
+      theory_id: 6193
+    - title: Running Python applications in PyCharm
+      theory_id: 19153
+    - title: "SQL: structured query language"
+      theory_id: 7054
+    - title: Basic data types
+      theory_id: 7123
+    - title: Literals
+      theory_id: 7400
+    - title: Arithmetic expressions
+      theory_id: 7409
+    - title: Basic CREATE statement
+      theory_id: 9084
+    - title: Basic SELECT statement
+      theory_id: 7392
+    - title: SELECT FROM statement
+      theory_id: 8611
+    - title: Logic and comparison expressions
+      theory_id: 8619
+    - title: The NULL value
+      theory_id: 7907
+    - title: Basic INSERT statement
+      theory_id: 9059
+    - title: Intro to MySQL
+      theory_id: 16662
+    - title: Alter table
+      theory_id: 9579
+    - title: PRIMARY KEY constraint
+      theory_id: 9781
+    - title: Consistency constraints
+      theory_id: 9587
+  3:
+    - title: Basic DELETE statement
+      theory_id: 9075
+    - title: Basic UPDATE statement
+      theory_id: 9067
+    - title: Updating selected rows
+      theory_id: 9603
+    - title: Introduction to transactions
+      theory_id: 12144
